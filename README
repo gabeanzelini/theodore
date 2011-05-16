@@ -1,0 +1,21 @@
+== Theodore
+
+Theodore is a CMS built for Rails 3.1.
+
+It uses the following gems:
+  - Database
+    - MongoDB
+    - mongo_mapper
+
+== Version 0.1
+
+- Users
+  - Global permissions
+    - Admin
+    - Editor
+    - Contributor
+
+- Pages
+  - Edit on page (no backend)
+  - Create new pages
+  - Pages have a heading and a body.
